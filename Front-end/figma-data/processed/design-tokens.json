@@ -1,0 +1,421 @@
+{
+  "colors": [
+    {
+      "hex": "#000000",
+      "usages": [
+        {
+          "nodeId": "1:23",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:23",
+          "kind": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#00000000",
+      "usages": [
+        {
+          "nodeId": "1:35",
+          "kind": "backgroundColor"
+        },
+        {
+          "nodeId": "1:44",
+          "kind": "backgroundColor"
+        }
+      ]
+    },
+    {
+      "hex": "#0538BB",
+      "usages": [
+        {
+          "nodeId": "1:26",
+          "kind": "stroke"
+        }
+      ]
+    },
+    {
+      "hex": "#060326",
+      "usages": [
+        {
+          "nodeId": "1:25",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:25",
+          "kind": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#1849D6",
+      "usages": [
+        {
+          "nodeId": "1:27",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#1B5AFF",
+      "usages": [
+        {
+          "nodeId": "1:41",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#2A4CFE",
+      "usages": [
+        {
+          "nodeId": "1:31",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:32",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:33",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:36",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:45",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#75ACFF",
+      "usages": [
+        {
+          "nodeId": "1:40",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#85A7FF",
+      "usages": [
+        {
+          "nodeId": "1:30",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:34",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:37",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:38",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#A5A5A5",
+      "usages": [
+        {
+          "nodeId": "1:24",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:24",
+          "kind": "text"
+        },
+        {
+          "nodeId": "1:28",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:28",
+          "kind": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#DDE0E7",
+      "usages": [
+        {
+          "nodeId": "1:29",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#F2FAFF",
+      "usages": [
+        {
+          "nodeId": "1:26",
+          "kind": "fill"
+        }
+      ]
+    },
+    {
+      "hex": "#F8FBF9",
+      "usages": [
+        {
+          "nodeId": "1:20",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:20",
+          "kind": "background"
+        },
+        {
+          "nodeId": "1:20",
+          "kind": "backgroundColor"
+        }
+      ]
+    },
+    {
+      "hex": "#FFFFFF",
+      "usages": [
+        {
+          "nodeId": "1:22",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:39",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:39",
+          "kind": "text"
+        },
+        {
+          "nodeId": "1:42",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:42",
+          "kind": "text"
+        },
+        {
+          "nodeId": "1:43",
+          "kind": "fill"
+        },
+        {
+          "nodeId": "1:43",
+          "kind": "text"
+        }
+      ]
+    }
+  ],
+  "typography": [
+    {
+      "fontFamily": "Inter",
+      "fontPostScriptName": "Inter-Medium",
+      "fontSize": 11.0,
+      "fontWeight": 500,
+      "fontStyle": "Medium",
+      "lineHeightPx": 13.0,
+      "letterSpacing": 0.0,
+      "usages": [
+        {
+          "nodeId": "1:39",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontSize": 16.0,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "lineHeightPx": 32.0,
+      "letterSpacing": 0.0,
+      "usages": [
+        {
+          "nodeId": "1:28",
+          "text": "Drag your resume file to this area, or c"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontSize": 20.0,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "lineHeightPx": 35.0,
+      "letterSpacing": 0.0,
+      "usages": [
+        {
+          "nodeId": "1:24",
+          "text": "Upload your resume, the platform will he"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontSize": 24.0,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "lineHeightPx": 35.0,
+      "letterSpacing": 1.92,
+      "usages": [
+        {
+          "nodeId": "1:42",
+          "text": "Last step"
+        },
+        {
+          "nodeId": "1:43",
+          "text": "finish"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Inter",
+      "fontPostScriptName": "Inter-Medium",
+      "fontSize": 36.0,
+      "fontWeight": 500,
+      "fontStyle": "Medium",
+      "lineHeightPx": 35.0,
+      "letterSpacing": 2.88,
+      "usages": [
+        {
+          "nodeId": "1:25",
+          "text": "Upload file"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontSize": 40.0,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "lineHeightPx": 55.0,
+      "letterSpacing": 0.0,
+      "usages": [
+        {
+          "nodeId": "1:23",
+          "text": "finish!\nUpload your resume"
+        }
+      ]
+    }
+  ],
+  "cornerRadii": [
+    {
+      "radius": 2.0,
+      "usages": [
+        {
+          "nodeId": "1:29"
+        },
+        {
+          "nodeId": "1:30"
+        }
+      ]
+    },
+    {
+      "radius": 8.0,
+      "usages": [
+        {
+          "nodeId": "1:40"
+        },
+        {
+          "nodeId": "1:41"
+        }
+      ]
+    },
+    {
+      "radius": 15.0,
+      "usages": [
+        {
+          "nodeId": "1:26"
+        }
+      ]
+    },
+    {
+      "radius": 32.0,
+      "usages": [
+        {
+          "nodeId": "1:22"
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "effect": {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07473958283662796,
+          "g": 0.26337507367134094,
+          "b": 0.4375,
+          "a": 0.15000000596046448
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0.0,
+          "y": 2.0
+        },
+        "radius": 20.0,
+        "showShadowBehindNode": false
+      },
+      "usages": [
+        {
+          "nodeId": "1:22"
+        }
+      ]
+    },
+    {
+      "effect": {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.07000000029802322
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0.0,
+          "y": 7.0
+        },
+        "radius": 64.0,
+        "showShadowBehindNode": true
+      },
+      "usages": [
+        {
+          "nodeId": "1:31"
+        },
+        {
+          "nodeId": "1:32"
+        },
+        {
+          "nodeId": "1:33"
+        }
+      ]
+    }
+  ],
+  "_stats": {
+    "nodeCount": 26,
+    "nodeTypes": {
+      "FRAME": 1,
+      "RECTANGLE": 7,
+      "TEXT": 7,
+      "VECTOR": 9,
+      "GROUP": 2
+    },
+    "textNodes": 7,
+    "textCharacters": 244,
+    "colorCount": 14,
+    "cornerRadiusCount": 4,
+    "fontSizeCount": 6
+  }
+}

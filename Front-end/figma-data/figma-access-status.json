@@ -1,0 +1,35 @@
+{
+  "status": "rest_api_ok",
+  "fileKey": "D0jjN7Twkq0DGm3ZJvQabz",
+  "nodeId": "0:1",
+  "url": "https://www.figma.com/design/D0jjN7Twkq0DGm3ZJvQabz/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88%E5%AE%9E%E4%B9%A0%EF%BC%89?node-id=0-1&p=f",
+  "accessMethod": "Figma REST API with personal access token (X-Figma-Token header)",
+  "filePermission": "can view (shared file, Starter Plan + View Seat)",
+  "verifiedAt": "2026-11-05",
+  "results": {
+    "get_file_depth2": {
+      "endpoint": "GET /v1/files/D0jjN7Twkq0DGm3ZJvQabz?depth=2",
+      "httpStatus": 200,
+      "savedTo": "figma-data/raw/file_D0jjN7Twkq0DGm3ZJvQabz_depth2.json"
+    },
+    "get_node_full": {
+      "endpoint": "GET /v1/files/D0jjN7Twkq0DGm3ZJvQabz/nodes?ids=1:20",
+      "httpStatus": 200,
+      "savedTo": "figma-data/raw/node_1_20_full.json"
+    }
+  },
+  "conclusion": "Figma REST API can read this shared can-view file. The earlier MCP failure was caused by MCP requiring edit access, not by the account lacking read access. Token must include the file_content:read scope.",
+  "history": {
+    "mcpAttempts": [
+      {
+        "tool": "mcp_figma_create_session",
+        "result": "Looks like you don't have edit access to this file. The file owner can share it with you and make you an editor."
+      },
+      {
+        "tool": "mcp_figma_get_design_context",
+        "result": "Same edit-access error as above."
+      }
+    ]
+  },
+  "dataPolicy": "Only real data returned by the Figma REST API is stored in this directory. No fabricated or inferred design data."
+}

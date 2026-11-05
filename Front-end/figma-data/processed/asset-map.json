@@ -1,0 +1,99 @@
+{
+  "source": {
+    "fileKey": "D0jjN7Twkq0DGm3ZJvQabz",
+    "endpoint": "/v1/images/{fileKey}?ids=...&format=svg|png",
+    "note": "URLs from Figma image export API; downloaded and stored locally so downstream tools do not need API access or quota."
+  },
+  "assets": [
+    {
+      "nodeId": "1:27",
+      "name": "icon-upload-cloud",
+      "format": "svg",
+      "file": "assets\\svg\\1-27_icon-upload-cloud.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 878
+    },
+    {
+      "nodeId": "1:31",
+      "name": "step-dot-1-outer",
+      "format": "svg",
+      "file": "assets\\svg\\1-31_step-dot-1-outer.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 1054
+    },
+    {
+      "nodeId": "1:32",
+      "name": "step-dot-2-outer",
+      "format": "svg",
+      "file": "assets\\svg\\1-32_step-dot-2-outer.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 1054
+    },
+    {
+      "nodeId": "1:33",
+      "name": "step-dot-3-outer",
+      "format": "svg",
+      "file": "assets\\svg\\1-33_step-dot-3-outer.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 1054
+    },
+    {
+      "nodeId": "1:34",
+      "name": "step-dot-1-inner",
+      "format": "svg",
+      "file": "assets\\svg\\1-34_step-dot-1-inner.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 321
+    },
+    {
+      "nodeId": "1:37",
+      "name": "step-dot-2-inner",
+      "format": "svg",
+      "file": "assets\\svg\\1-37_step-dot-2-inner.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 321
+    },
+    {
+      "nodeId": "1:38",
+      "name": "step-dot-3-inner",
+      "format": "svg",
+      "file": "assets\\svg\\1-38_step-dot-3-inner.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 321
+    },
+    {
+      "nodeId": "1:35",
+      "name": "icon-check-1",
+      "format": "svg",
+      "file": "assets\\svg\\1-35_icon-check-1.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 548
+    },
+    {
+      "nodeId": "1:44",
+      "name": "icon-check-2",
+      "format": "svg",
+      "file": "assets\\svg\\1-44_icon-check-2.svg",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 548
+    },
+    {
+      "nodeId": "1:21",
+      "name": "illustration-resume-scene",
+      "format": "png",
+      "file": "assets\\images\\1-21_illustration-resume-scene.png",
+      "source": "figma-images-api",
+      "status": "reused-existing",
+      "bytes": 196980
+    }
+  ]
+}

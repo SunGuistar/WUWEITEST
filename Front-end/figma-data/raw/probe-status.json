@@ -1,0 +1,13 @@
+{
+  "phase": "phase1-minimal-probe",
+  "request": "GET https://api.figma.com/v1/files/D0jjN7Twkq0DGm3ZJvQabz?depth=2",
+  "auth": "X-Figma-Token (personal access token, content redacted)",
+  "timestamp": "2026-02-27",
+  "httpStatus": 403,
+  "response": {
+    "status": 403,
+    "err": "Invalid scope(s): file_comments:read. This endpoint requires the file_content:read scope"
+  },
+  "interpretation": "Token was created with only the file_comments:read scope. The /v1/files endpoint requires the file_content:read scope. This is a token scope configuration issue, not a file permission issue. No conclusion can be drawn yet about whether the account's can-view access is sufficient for the REST API.",
+  "rawResponseFile": "figma-data/raw/probe-depth2.json"
+}
