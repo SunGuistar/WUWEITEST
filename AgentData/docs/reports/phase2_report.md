@@ -15,4 +15,5 @@
 
 - 基线与数据：`../../data/`（standardized_ledger.json、fact_baseline.json、audit.db、validation_report.json）
 - Gold 验证结论已汇总于本报告；逐项校验可随时由 `../../src/audit_tool/gold_full_validation.py` 重新执行。
+- 第一部分正式答卷：`../../data/reports/part1_feasibility_and_fact_baseline.md`（待人工验收，通过后阶段二正式完成）。
 - 自动化测试 55 项全部通过。
