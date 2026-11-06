@@ -1,0 +1,33 @@
+{
+  "ledger_totals": [
+    {
+      "period": "2023→2024",
+      "base_total": 374,
+      "current_total": 422,
+      "yoy_raw": 0.1283422459893049,
+      "source": {
+        "sheet": "客流对比_2024",
+        "row": 22,
+        "col_base": "F",
+        "col_current": "E",
+        "col_yoy": "G"
+      },
+      "source_file": "materials/门店餐段客流台账.xlsx"
+    },
+    {
+      "period": "2024→2025",
+      "base_total": 422,
+      "current_total": 481,
+      "yoy_raw": 0.1398104265402844,
+      "source": {
+        "sheet": "客流对比_2025",
+        "row": 22,
+        "col_base": "F",
+        "col_current": "E",
+        "col_yoy": "G"
+      },
+      "source_file": "materials/门店餐段客流台账.xlsx"
+    }
+  ],
+  "issues": []
+}

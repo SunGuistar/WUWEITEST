@@ -1,0 +1,242 @@
+{
+  "brand_totals": [
+    {
+      "period": "2023→2024",
+      "base_total": 374,
+      "current_total": 422
+    },
+    {
+      "period": "2024→2025",
+      "base_total": 422,
+      "current_total": 481
+    }
+  ],
+  "bridge": [
+    {
+      "period": "2023→2024",
+      "component": "continuing",
+      "member_stores": [
+        "北站店",
+        "星港店",
+        "西苑店",
+        "青禾店"
+      ],
+      "absolute_impact": 23,
+      "denominator": 48,
+      "signed_contribution": 0.4791666666666667
+    },
+    {
+      "period": "2023→2024",
+      "component": "new",
+      "member_stores": [
+        "湖滨店"
+      ],
+      "absolute_impact": 89,
+      "denominator": 48,
+      "signed_contribution": 1.8541666666666667
+    },
+    {
+      "period": "2023→2024",
+      "component": "closed",
+      "member_stores": [
+        "客运港店"
+      ],
+      "absolute_impact": -64,
+      "denominator": 48,
+      "signed_contribution": -1.3333333333333333
+    },
+    {
+      "period": "2024→2025",
+      "component": "continuing",
+      "member_stores": [
+        "北站店",
+        "星港店",
+        "湖滨店",
+        "青禾店"
+      ],
+      "absolute_impact": 31,
+      "denominator": 59,
+      "signed_contribution": 0.5254237288135594
+    },
+    {
+      "period": "2024→2025",
+      "component": "new",
+      "member_stores": [
+        "云庭店"
+      ],
+      "absolute_impact": 79,
+      "denominator": 59,
+      "signed_contribution": 1.3389830508474576
+    },
+    {
+      "period": "2024→2025",
+      "component": "closed",
+      "member_stores": [
+        "西苑店"
+      ],
+      "absolute_impact": -51,
+      "denominator": 59,
+      "signed_contribution": -0.864406779661017
+    }
+  ],
+  "daypart_contributions": [
+    {
+      "period": "2023→2024",
+      "daypart": "早餐",
+      "continuing_impact": 4,
+      "new_impact": 7,
+      "closed_impact": -22,
+      "denominator": 48
+    },
+    {
+      "period": "2023→2024",
+      "daypart": "午餐",
+      "continuing_impact": 11,
+      "new_impact": 34,
+      "closed_impact": -24,
+      "denominator": 48
+    },
+    {
+      "period": "2023→2024",
+      "daypart": "晚餐",
+      "continuing_impact": 8,
+      "new_impact": 48,
+      "closed_impact": -18,
+      "denominator": 48
+    },
+    {
+      "period": "2024→2025",
+      "daypart": "早餐",
+      "continuing_impact": 4,
+      "new_impact": 6,
+      "closed_impact": -9,
+      "denominator": 59
+    },
+    {
+      "period": "2024→2025",
+      "daypart": "午餐",
+      "continuing_impact": 12,
+      "new_impact": 29,
+      "closed_impact": -24,
+      "denominator": 59
+    },
+    {
+      "period": "2024→2025",
+      "daypart": "晚餐",
+      "continuing_impact": 15,
+      "new_impact": 44,
+      "closed_impact": -18,
+      "denominator": 59
+    }
+  ],
+  "store_classifications": [
+    {
+      "period": "2023→2024",
+      "store": "北站店",
+      "store_format": "枢纽店",
+      "status": "continuing",
+      "base_total": 90,
+      "current_total": 97,
+      "daypart_count": 3
+    },
+    {
+      "period": "2023→2024",
+      "store": "客运港店",
+      "store_format": "枢纽店",
+      "status": "closed",
+      "base_total": 64,
+      "current_total": 0,
+      "daypart_count": 3
+    },
+    {
+      "period": "2023→2024",
+      "store": "星港店",
+      "store_format": "商场店",
+      "status": "continuing",
+      "base_total": 103,
+      "current_total": 117,
+      "daypart_count": 3
+    },
+    {
+      "period": "2023→2024",
+      "store": "湖滨店",
+      "store_format": "商场店",
+      "status": "new",
+      "base_total": 0,
+      "current_total": 89,
+      "daypart_count": 3
+    },
+    {
+      "period": "2023→2024",
+      "store": "西苑店",
+      "store_format": "社区店",
+      "status": "continuing",
+      "base_total": 55,
+      "current_total": 51,
+      "daypart_count": 3
+    },
+    {
+      "period": "2023→2024",
+      "store": "青禾店",
+      "store_format": "社区店",
+      "status": "continuing",
+      "base_total": 62,
+      "current_total": 68,
+      "daypart_count": 3
+    },
+    {
+      "period": "2024→2025",
+      "store": "云庭店",
+      "store_format": "商场店",
+      "status": "new",
+      "base_total": 0,
+      "current_total": 79,
+      "daypart_count": 3
+    },
+    {
+      "period": "2024→2025",
+      "store": "北站店",
+      "store_format": "枢纽店",
+      "status": "continuing",
+      "base_total": 97,
+      "current_total": 102,
+      "daypart_count": 3
+    },
+    {
+      "period": "2024→2025",
+      "store": "星港店",
+      "store_format": "商场店",
+      "status": "continuing",
+      "base_total": 117,
+      "current_total": 128,
+      "daypart_count": 3
+    },
+    {
+      "period": "2024→2025",
+      "store": "湖滨店",
+      "store_format": "商场店",
+      "status": "continuing",
+      "base_total": 89,
+      "current_total": 100,
+      "daypart_count": 3
+    },
+    {
+      "period": "2024→2025",
+      "store": "西苑店",
+      "store_format": "社区店",
+      "status": "closed",
+      "base_total": 51,
+      "current_total": 0,
+      "daypart_count": 3
+    },
+    {
+      "period": "2024→2025",
+      "store": "青禾店",
+      "store_format": "社区店",
+      "status": "continuing",
+      "base_total": 68,
+      "current_total": 72,
+      "daypart_count": 3
+    }
+  ]
+}
