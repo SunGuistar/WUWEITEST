@@ -1,0 +1,13 @@
+{
+  "schema": "strict-source-owner-v1",
+  "positive_weights": {
+    "R1": 0.05,
+    "R2": 0.08,
+    "R3": 0.18,
+    "R4": 0.25,
+    "R5": 0.25,
+    "R6": 0.1,
+    "R7": 0.09
+  },
+  "semantic_contract": "llm_judge/contract.json"
+}
