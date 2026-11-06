@@ -1,0 +1,9 @@
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/SunGuistar/spring-security-auth-demo.git
+[submodule "Crawler"]
+	path = Crawler
+	url = https://github.com/SunGuistar/mit-blog-crawler.git
+[submodule "Python/StreamingAPIDemo"]
+	path = Python/StreamingAPIDemo
+	url = https://github.com/SunGuistar/streaming-api-demo.git
