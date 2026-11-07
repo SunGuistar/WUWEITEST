@@ -1,7 +1,7 @@
 # Instruction 公平性与可验证性审查报告
 
 > 核心问题：招聘方提供的 Instruction，是否足以让 Agent 理解任务、正确完成任务，并让考官公平、客观地判断完成质量？
-> 本报告面向人工阅读，通俗易懂；详细技术版分析另存于 `data/instruction_audit_detailed.md`。
+> 本报告面向人工阅读，通俗易懂；详细技术版分析另存于 `../instruction_audit_detailed.md`。
 
 ## 第一部分：Instruction 要求了什么？
 

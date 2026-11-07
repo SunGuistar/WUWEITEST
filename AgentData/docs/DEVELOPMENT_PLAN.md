@@ -54,7 +54,7 @@
 
 预期产出（整个阶段）：`data/` 下的标准化 JSON 与 SQLite、事实基线、Gold 差异记录、阶段总结报告、可运行的测试。
 
-阶段状态：技术实现与数据验证已完成，第一部分正式答卷已完成（`data/reports/part1_feasibility_and_fact_baseline.md`），等待人工验收
+阶段状态：技术实现与数据验证已完成，第一部分正式答卷已完成（`docs/reports/part1_feasibility_and_fact_baseline.md`），等待人工验收
 
 ## 阶段三：5 份 Rollout 审计
 
@@ -67,7 +67,7 @@
 
 验收条件：每份 rollout 至少 2 条具体证据，覆盖一条数值链和一条控制链；每份均给出"当前分数是否合理"的判断。
 
-状态：待开始（依赖：阶段二人工验收通过；执行机制在实施前明确，默认人工阶段门禁）
+状态：已完成，等待人工验收（依赖：阶段二人工验收通过；执行机制在实施前明确，默认人工阶段门禁）——五份审计报告见 docs/reports/rollouts/，汇总见 docs/reports/phase3_summary.md
 
 ## 阶段四：Probe 与现有评分系统审计
 

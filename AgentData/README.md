@@ -88,7 +88,7 @@ SQLite 为 Python 标准库自带，无需额外安装。
 ## 当前开发进度
 
 - [x] 阶段一：项目开发文档建设（README、DEVELOPMENT_PLAN、AGENT）—— 已完成
-- [x] 阶段二：材料结构化与事实基线（6 节点自动顺序执行全部通过；第一部分正式答卷已完成，见 `data/reports/part1_feasibility_and_fact_baseline.md`）—— **第一部分答卷待人工验收**
+- [x] 阶段二：材料结构化与事实基线（6 节点自动顺序执行全部通过；第一部分正式答卷已完成，见 `docs/reports/part1_feasibility_and_fact_baseline.md`）—— **第一部分答卷待人工验收**
 - [ ] 阶段三：5 份 Rollout 审计 —— 待开始
 - [ ] 阶段四：Probe 与 Scorer 审计 —— 待开始
 - [ ] 阶段五：新 Rubric 与回归测试设计 —— 待开始
