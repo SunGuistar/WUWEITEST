@@ -89,9 +89,9 @@ SQLite 为 Python 标准库自带，无需额外安装。
 
 - [x] 阶段一：项目开发文档建设（README、DEVELOPMENT_PLAN、AGENT）—— 已完成
 - [x] 阶段二：材料结构化与事实基线（6 节点自动顺序执行全部通过；第一部分正式答卷已完成，见 `docs/reports/part1_feasibility_and_fact_baseline.md`）—— **第一部分答卷待人工验收**
-- [ ] 阶段三：5 份 Rollout 审计 —— 待开始
-- [ ] 阶段四：Probe 与 Scorer 审计 —— 待开始
-- [ ] 阶段五：新 Rubric 与回归测试设计 —— 待开始
+- [ ] 阶段三：5 份 Rollout 审计 —— 已完成（见 docs/reports/phase3_summary.md），答卷第二部分已完成
+- [ ] 阶段四：Probe 与 Scorer 审计 —— 已完成（4.1–4.5 全部节点），答卷第四部分已完成
+- [ ] 阶段五：新 Rubric 与回归测试设计 —— 已完成（part4 答卷含新 Rubric，part5 答卷含 6 个回归测试设计）；最终答卷 `answer.md` 已整合完成
 - [ ] 阶段六：综合验收与答卷生成 —— 待开始
 
 ## 交付物说明
